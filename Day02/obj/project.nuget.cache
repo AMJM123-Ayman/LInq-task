@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gI4VH7w8nQQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\albat\\source\\repos\\Day02\\Day02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albat\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.3\\microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512",
+    "C:\\Users\\albat\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\albat\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
